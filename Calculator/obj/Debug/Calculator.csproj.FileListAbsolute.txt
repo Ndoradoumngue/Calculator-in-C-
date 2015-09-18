@@ -1,0 +1,8 @@
+C:\Users\Christian\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Christian\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Christian\Desktop\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
