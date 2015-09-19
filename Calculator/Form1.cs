@@ -113,9 +113,16 @@ namespace Calculator
                 screen.Clear();
 
             operationperformed = false;
-            Button button = (Button)sender;
-            
-            screen.Text = screen.Text + "-";
+
+            //Making sure that - before a number is not entered more than once
+            if (screen.Text == "-")
+            {
+
+            }
+            else
+            {
+                screen.Text = screen.Text + "-";
+            }
 
         }
 
